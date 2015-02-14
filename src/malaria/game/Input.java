@@ -97,7 +97,7 @@ public class Input implements KeyListener
 		toLoad = 0;
 		loading = 0;
 		System.out.println(checkJar);
-		if(!checkJar.startsWith("rsrc"))
+		if(!checkJar.startsWith("rsrc") && !checkJar.startsWith("jar"))
 		{
 			URL u = ClassLoader.getSystemResource(imagebase);
 			File folder = new File(u.getFile());
