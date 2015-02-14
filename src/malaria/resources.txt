@@ -1,0 +1,5 @@
+MalariaMain.png
+MalariaMosquito.png
+MalariaVamp.png
+VampTile.png
+VampTileLit.png
