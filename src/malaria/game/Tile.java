@@ -1,4 +1,4 @@
-package game;
+package malaria.game;
 
 public class Tile
 {

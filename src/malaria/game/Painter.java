@@ -1,4 +1,4 @@
-package game;
+package malaria.game;
 
 import java.awt.Color;
 import java.awt.Font;

@@ -1,4 +1,4 @@
-package game;
+package malaria.game;
 
 import java.awt.Rectangle;
 import java.util.Random;

@@ -1,4 +1,4 @@
-package game;
+package malaria.game;
 
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
@@ -93,7 +93,7 @@ public class Input implements KeyListener
 	{
 		String checkJar = this.getClass().getResource("Input.class").toString();
 		imageMap = new HashMap<String, BufferedImage>();
-		String imagebase = "images";
+		String imagebase = "malaria/images";
 		toLoad = 0;
 		loading = 0;
 		System.out.println(checkJar);
